@@ -51,7 +51,7 @@ It is highly recommended that you use a tool like [`nvm`](https://github.com/nvm
    npm run start
    ```
 
-### Local Development
+### Local Development Details
 
     $ npm install
     $ npm run prepare
